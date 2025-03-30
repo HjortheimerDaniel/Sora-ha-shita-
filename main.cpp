@@ -15,7 +15,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 	Stages* stage = new Stages();
 
 
-	stage->Initialize();
+	stage->Initialize(); //
 	
 
 	// ウィンドウの×ボタンが押されるまでループ
